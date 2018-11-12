@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="logo-a" x1="105.936%" x2="-4.933%" y1="91.695%" y2="0%">
+      <stop offset="0%" stop-color="#412DDF"/>
+      <stop offset="100%" stop-color="#D34848"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#logo-a)" d="M50,52 L481.5,52 C753.863636,52 970,221.673597 970,510.182259 C970,799.326403 767.500162,969 494.500162,969 L50,969 L50,52 Z"/>
+    <text fill="#FFF" font-family="SFProDisplay-Medium, SF Pro Display" font-size="156" font-weight="400" letter-spacing="-2">
+      <tspan x="110" y="472">Design</tspan> <tspan x="110" y="628">Resource</tspan> <tspan x="727.902" y="628">s</tspan>
+    </text>
+  </g>
+</svg>
