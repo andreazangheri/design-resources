@@ -13,7 +13,25 @@
 
 #### Resources
 
-A curated list of awesome Design resources.
+A curated list of Design resources.
+
+#### General
+
+- [Manifesto Project](http://www.manifestoproject.it/)
+
+#### Devices
+
+- [Device Metrics](https://material.io/tools/devices/)
+- [Designer's guide to DPI](https://www.sebastien-gabriel.com/designers-guide-to-dpi/)
+- [iPhone Resolutions](https://www.paintcodeapp.com/download/poster_iphones.pdf)
+ - [iPhone X demystified](https://www.paintcodeapp.com/news/iphone-x-screen-demystified)
+ - [iPhone 6 demystified](https://www.paintcodeapp.com/news/iphone-6-screens-demystified)
+
+#### Web font
+
+- [Web Type & Font](https://www.zachleat.com/web/fonts/)
+- [Web Font generator](https://www.fontsquirrel.com/tools/webfont-generator)
+
 
 #### Code Style
 
