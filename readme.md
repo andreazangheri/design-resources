@@ -32,11 +32,6 @@ A curated list of Design resources.
 - [Web Type & Font](https://www.zachleat.com/web/fonts/)
 - [Web Font generator](https://www.fontsquirrel.com/tools/webfont-generator)
 
-
-#### Code Style
-
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-7a36a4.svg)](https://github.com/prettier/prettier)
-
 #### License
 
 All trademarks and copyrights are property of their respective owners.
